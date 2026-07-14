@@ -21,16 +21,30 @@
 ---
 
 ### ⚡ GitHub Stats:
-![Matin's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatinHSDeveloper&show_icons=true&theme=tokyonight)
----
+<table align="center" border="0">
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=MatinHSDeveloper&show_icons=true&theme=dark&bg_color=0b0b14&title_color=00ff7f&icon_color=00ff7f&text_color=a9b1d6" alt="GitHub Stats" width="400" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatinHSDeveloper&layout=compact&theme=dark&bg_color=0b0b14&title_color=00ff7f&icon_color=00ff7f&text_color=a9b1d6" alt="Top Languages" width="400" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" colspan="2">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatinHSDeveloper&theme=dark&background=0b0b14&ring=00ff7f&fire=b399ff&currStreakLabel=00ff7f&sideNums=a9b1d6&dates=a9b1d6" alt="Streak Stats" width="810" />
+    </td>
+  </tr>
+</table>
 
+---
 ### 📜 Philosophy:
 > “Code is like humor. When you have to explain it, it’s bad.”  
 > – Cory House
 
 ---
 ## 💵 Donate
-<a href="https://www.coffeebede.com/matindev"><img class="img-fluid" src="https://coffeebede.com/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
+<a href="https://www.coffeebede.com/matindev"><img class="img-fluid" src="https://coffeebede.com/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" "alt=width="400" /></a>
 
 ---
 
