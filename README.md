@@ -44,8 +44,7 @@
 
 ---
 ## 💵 Donate
-<a href="https://www.coffeebede.com/matindev"><img class="img-fluid" src="https://coffeebede.com/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" "alt=width="400" /></a>
-
+<img class="img-fluid" src="https://coffeebede.com/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" alt="banner" width="400" />
 ---
 
 <h2>📞 How to contact me :</h2>
