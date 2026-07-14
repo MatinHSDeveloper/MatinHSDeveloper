@@ -21,11 +21,7 @@
 ---
 
 ### ⚡ GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matinhajiseftjani400&show_icons=true&theme=radical" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matinhajiseftjani400&layout=compact&theme=radical" width="49%" />
-</p>
-
+![Matin's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatinHSDeveloper&show_icons=true&theme=tokyonight)
 ---
 
 ### 📜 Philosophy:
@@ -51,13 +47,7 @@
 </p>
 ---
 
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MatrixNeoKozak/MatrixNeoKozak/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
+## 🐍 Contribution Snake
 
+![Snake animation](https://github.com/MatinHSDeveloper/MatinHSDeveloper/blob/output/github-contribution-grid-snake.svg)
 ---
-
-<p align="center">
-  <i>"Follow the white rabbit..." 🐇</i>
-</p>
