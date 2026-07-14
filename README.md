@@ -16,9 +16,7 @@
 
 <img src="https://skillicons.dev/icons?i=python,wordpress,cpp,java,bash,arduino,androidstudio,html,css,js,php,vscode&perline=6" />
 
-<hr />
-
----
+<hr/>
 
 ### ⚡ GitHub Stats:
 <table align="center" border="0">
