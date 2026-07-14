@@ -44,7 +44,8 @@
 
 ---
 ## 💵 Donate
-<img class="img-fluid" src="https://coffeebede.com/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" alt="banner" width="400" />
+<img src="https://coffeebede.com/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" width="200" />
+
 ---
 
 <h2>📞 How to contact me :</h2>
@@ -58,6 +59,7 @@
 <p align="center">
   Built with focus. Running on caffeine.
 </p>
+
 ---
 
 ### 🐍 Contribution Snake
