@@ -47,7 +47,9 @@
 </p>
 ---
 
-## 🐍 Contribution Snake
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MatrixNeoKozak/MatrixNeoKozak/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
-![Snake animation](https://github.com/MatinHSDeveloper/MatinHSDeveloper/blob/output/github-contribution-grid-snake.svg)
 ---
