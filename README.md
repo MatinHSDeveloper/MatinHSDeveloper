@@ -49,3 +49,15 @@
 <p align="center">
   Built with focus. Running on caffeine.
 </p>
+---
+
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MatrixNeoKozak/MatrixNeoKozak/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Follow the white rabbit..." 🐇</i>
+</p>
