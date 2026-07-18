@@ -19,21 +19,9 @@
 <hr/>
 
 ### ⚡ GitHub Stats:
-<table align="center" border="0">
-  <tr>
-    <td align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=MatinHSDeveloper&show_icons=true&theme=dark&bg_color=0b0b14&title_color=00ff7f&icon_color=00ff7f&text_color=a9b1d6" alt="GitHub Stats" width="400" />
-    </td>
-    <td align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatinHSDeveloper&layout=compact&theme=dark&bg_color=0b0b14&title_color=00ff7f&icon_color=00ff7f&text_color=a9b1d6" alt="Top Languages" width="400" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" colspan="2">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatinHSDeveloper&theme=dark&background=0b0b14&ring=00ff7f&fire=b399ff&currStreakLabel=00ff7f&sideNums=a9b1d6&dates=a9b1d6" alt="Streak Stats" width="810" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-all-stats.vercel.app/api?username=MatinHSDeveloper&v=1" alt="DoKi-Mk's GitHub Stats" />
+</div>
 
 ---
 ### 📜 Philosophy:
@@ -62,7 +50,7 @@
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MatrixNeoKozak/MatrixNeoKozak/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/MatinHSDeveloper/MatinHSDeveloper/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
